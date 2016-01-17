@@ -1,78 +1,5 @@
 <Array>
 
-  <Element>
-  <tag>CA</tag>
-  <country>Canada</country>
-  <city>Montreal</city>
-  <image>flags/Canada.png</image>
-  <strength>97</strength> 
-  <ip>158.69.137.22</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>0</vip>
- </Element>
- 
-  <Element>
-  <tag>CA</tag>
-  <country>Canada</country>
-  <city>Beauharnois</city>
-  <image>flags/Canada.png</image>
-  <strength>96</strength> 
-  <ip>198.50.174.240</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>1</vip>
-  <hide>0</hide>
- </Element>
- 
-  <Element>
-  <tag>CA</tag>
-  <country>Canada</country>
-  <city>Montreal</city>
-  <image>flags/Canada.png</image>
-  <strength>96</strength> 
-  <ip>158.69.137.23</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>0</vip>
- </Element>  
- 
-  <Element>
-  <tag>CA</tag>
-  <country>Canada</country>
-  <city>Beauharnois</city>
-  <image>flags/Canada.png</image>
-  <strength>96</strength> 
-  <ip>167.114.36.240</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>1</vip>
-  <hide>0</hide>
- </Element>
- 
-   <Element>
-  <tag>CA</tag>
-  <country>Canada</country>
-  <city>Beauharnois</city>
-  <image>flags/Canada.png</image>
-  <strength>96</strength> 
-  <ip>198.50.163.127</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>1</vip>
-  <hide>0</hide>
- </Element>
-
  <Element>
   <tag>BG</tag>
   <country>Bulgaria</country>
@@ -84,8 +11,8 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
+  <hide>1</hide>
+  <vip>1</vip>
  </Element>
  
  <Element>
@@ -100,7 +27,79 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
+  <vip>1</vip>
+ </Element>
+ 
+ <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Montreal</city>
+  <image>flags/Canada.png</image>
+  <strength>97</strength> 
+  <ip>142.4.201.171</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
   <vip>0</vip>
+ </Element>
+ 
+ <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Montreal</city>
+  <image>flags/Canada.png</image>
+  <strength>97</strength> 
+  <ip>158.69.137.22</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>0</vip>
+ </Element>
+
+ <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Montreal</city>
+  <image>flags/Canada.png</image>
+  <strength>97</strength> 
+  <ip>198.50.163.127</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>0</vip>
+  <hide>0</hide>
+ </Element>
+ 
+  <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Montreal</city>
+  <image>flags/Canada.png</image>
+  <strength>96</strength> 
+  <ip>158.69.137.23</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+ </Element>  
+ 
+  <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Beauharnois</city>
+  <image>flags/Canada.png</image>
+  <strength>96</strength> 
+  <ip>198.50.174.240</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
  </Element>
  
   <Element>
@@ -117,6 +116,21 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element>  
+ 
+ <Element>
+  <tag>CH</tag>
+  <country>Switzerland</country>
+  <city>Zurich</city>
+  <image>flags/Swaziland.png</image>
+  <strength>98</strength> 
+  <ip>178.209.50.155</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
   
    <Element>
   <tag>CL</tag>
@@ -139,7 +153,7 @@
   <city>Prague</city>
   <image>flags/Czech_Republic.png</image>
   <strength>98</strength> 
-  <ip>46.36.35.129</ip>
+  <ip>46.36.36.147</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -205,7 +219,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>0</vip>
  </Element> 
  
@@ -235,32 +249,17 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>0</vip>
  </Element> 
-
- <Element>
-  <tag>IT</tag>
-  <country>Italy</country>
-  <city>Agrigento</city>
-  <image>flags/Italy.png</image>
-  <strength>95</strength>
-  <ip>46.252.151.104</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
- </Element>
  
-   <Element>
+  <Element>
   <tag>IT</tag>
   <country>Italy</country>
   <city>Agrigento</city>
   <image>flags/Italy.png</image>
   <strength>95</strength>
-  <ip>151.236.18.213</ip>
+  <ip>151.236.18.221</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -297,6 +296,19 @@
   <protocol>private</protocol> 
  </Element>  
  
+ <Element>
+  <tag>JP</tag>
+  <country>Japan</country>
+  <city>Tokyo</city>
+  <image>flags/Japan.png</image>
+  <strength>99</strength>
+  <ip>45.32.251.2</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
     <Element>
   <tag>JP</tag>
   <country>Japan</country>
@@ -313,6 +325,81 @@
  </Element> 
  
  <Element>
+  <tag>HK</tag>
+  <country>Hong Kong</country>
+  <city>Kowloon</city>
+  <image>flags/Hong_Kong.png</image>
+  <strength>97</strength> 
+  <ip>153.92.46.92</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+  <hide>0</hide>
+ </Element>
+ 
+ <Element>
+  <tag>HK</tag>
+  <country>Hong Kong</country>
+  <city>Kowloon</city>
+  <image>flags/Hong_Kong.png</image>
+  <strength>97</strength> 
+  <ip>153.92.41.150</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+  <hide>1</hide>
+ </Element>
+ 
+ <Element>
+  <tag>HK</tag>
+  <country>Hong Kong</country>
+  <city>Kowloon</city>
+  <image>flags/Hong_Kong.png</image>
+  <strength>97</strength> 
+  <ip>153.92.45.191</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+  <hide>0</hide>
+ </Element>
+ 
+ <Element>
+  <tag>HK</tag>
+  <country>Hong Kong</country>
+  <city>Kowloon</city>
+  <image>flags/Hong_Kong.png</image>
+  <strength>97</strength> 
+  <ip>176.126.68.110</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+  <hide>0</hide>
+ </Element>
+ 
+ <Element>
+  <tag>LR</tag>
+  <country>Latvia</country>
+  <city>Riga</city>
+  <image>flags/Latvia.png</image>
+  <strength>97</strength> 
+  <ip>185.8.60.69</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>0</vip>
+  <hide>0</hide>
+ </Element>
+ 
+ <Element>
   <tag>Ltu</tag>
   <country>Lithuania</country>
   <city>Voruta</city>
@@ -323,7 +410,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>0</vip>
  </Element>
  
@@ -340,6 +427,21 @@
   <protocol>private</protocol> 
   <hide>0</hide>
   <vip>0</vip>
+ </Element>
+ 
+ <Element>
+  <tag>MU</tag>
+  <country>Mauritius</country>
+  <city>Mauritius</city>
+  <image>flags/Mauritius.png</image>
+  <strength>97</strength> 
+  <ip>154.127.60.251</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
+  <hide>0</hide>
  </Element>
  
  <Element>
@@ -368,7 +470,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>0</vip>  
  </Element>
  
@@ -393,7 +495,7 @@
   <city>Moscow</city>
   <image>flags/Russian_Federation.png</image>
   <strength>97</strength> 
-  <ip>213.183.56.21</ip>
+  <ip>213.183.56.27</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -408,14 +510,44 @@
   <city>Bucuresti</city>
   <image>flags/Romania.png</image>
   <strength>94</strength> 
-  <ip>188.241.140.226</ip>
+  <ip>185.106.122.122</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
   <hide>1</hide>
   <vip>0</vip>  
+ </Element>
+ 
+ <Element>
+  <tag>RO</tag>
+  <country>Romania</country>
+  <city>Bucuresti</city>
+  <image>flags/Romania.png</image>
+  <strength>94</strength> 
+  <ip>185.106.122.12</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>  
  </Element> 
+ 
+ <Element>
+  <tag>RO</tag>
+  <country>Romania</country>
+  <city>Bucuresti</city>
+  <image>flags/Romania.png</image>
+  <strength>94</strength> 
+  <ip>185.106.122.121</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>1</hide>
+  <vip>0</vip>  
+ </Element>
  
    <Element>
   <tag>SE</tag>
@@ -493,12 +625,42 @@
  </Element>
  
  <Element>
+  <tag>TR</tag>
+  <country>Turkey</country>
+  <city>İstanbul </city>
+  <image>flags/Turkey.png</image>
+  <strength>94</strength> 
+  <ip>46.45.182.136</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>  
+ </Element> 
+ 
+ <Element>
   <tag>UA</tag>
   <country>Ukraine</country>
   <city>Kiev</city>
   <image>flags/Ukraine.png</image>
   <strength>96</strength> 
   <ip>91.239.232.142</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+ <Element>
+  <tag>UA</tag>
+  <country>Ukraine</country>
+  <city>Zaporozhye</city>
+  <image>flags/Ukraine.png</image>
+  <strength>96</strength> 
+  <ip>195.191.25.179</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -535,6 +697,36 @@
   <protocol>private</protocol> 
   <hide>0</hide>
   <vip>0</vip> 
+ </Element>
+ 
+ <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Auburn Hills(MI)</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>159.203.137.212</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+   <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+ <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Atlanta</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>108.61.215.91</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
  </Element>
  
  <Element>
@@ -603,7 +795,7 @@
   <city>Seattle</city>
   <image>flags/United States.png</image>
   <strength>98</strength>
-  <ip>107.191.107.120</ip>
+  <ip>172.110.29.181</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -611,6 +803,66 @@
   <hide>0</hide>
   <vip>0</vip>
  </Element>  
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Seattle</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>172.110.31.172</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Seattle</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>172.110.29.154</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Seattle</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>172.110.29.155</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Seattle</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>172.110.29.153</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
  
  <Element>
   <tag>US</tag>
@@ -623,7 +875,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>1</vip>
  </Element> 
  
@@ -656,5 +908,20 @@
   <hide>0</hide>
   <vip>1</vip>
  </Element> 
+ 
+ <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Miami</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>104.238.136.117</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
  
 </Array>
